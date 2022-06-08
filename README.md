@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos Henrique Matano
 - 👀 I’m interested in a new oportunity to grow as a Computer Science student
-- 🌱 I’m currently learning HTML, CSS, Alghorithms, Javascript and pyhton
+- 🌱 I’m currently learning HTML, CSS, Alghorithms, Javascript, Java and pyhton
 - 🗺️ [LinkedIn](https://www.linkedin.com/in/carlos-henrique-626904181/)
 - 🤳 [Instagram](https://www.instagram.com/carloshenrique9/)
 <!---
